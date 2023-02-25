@@ -3,7 +3,7 @@
 ### About Me
 Over 13 years experience working in the trading and retail sectors. I have a depth of experience with resilient, scalable and distributed systems as well as  cloud migrations that are production hardened and have served billions of requests.
 
-I'm currently a Principal Software Engineers at [ASOS](https://www.asos.com/)
+I'm currently a Principal Software Engineer at [ASOS](https://www.asos.com/)
 
 ### What I Do?
 
