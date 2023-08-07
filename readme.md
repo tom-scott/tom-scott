@@ -18,5 +18,3 @@ Primarily I write code in C#, F#, Python, NodeJS and Go.
 - [How Auto Rotating Certificates Reduces Toil For Our Engineering Teams](https://medium.com/asos-techblog/how-auto-rotating-certificates-reduces-toil-for-our-engineering-teams-d93b1df7892f)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-scott)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/tom-scott)  
