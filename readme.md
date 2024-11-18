@@ -2,9 +2,9 @@
 
 ### About Me
 
-I'm a Principal Software Engineer with experience working in a variety of sectors. I work with resilient, high-scale and distributed systems and the teams who build them.
+I'm a Principal Engineer with experience working in a variety of sectors. I work with resilient, high-scale and distributed systems and the teams who build them.
 
-I'm currently a Principal Software Engineer at [ASOS](https://www.asos.com/).
+I'm currently a Principal Engineer at [ASOS](https://www.asos.com/).
 
 ### Blogs
 
